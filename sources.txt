@@ -1,2 +1,5 @@
 Card Flip Sound:
-https://freesound.org/people/f4ngy/sounds/240776/
+Card Flip by f4ngy -- https://freesound.org/s/240776/ -- License: Attribution 4.0
+
+Card Hover Sound:
+QuintoMoveTap1.aif by ramjac -- https://freesound.org/s/21342/ -- License: Attribution 4.0
