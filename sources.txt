@@ -6,3 +6,23 @@ QuintoMoveTap1.aif by ramjac -- https://freesound.org/s/21342/ -- License: Attri
 
 Card Knock-Fail Sound:
 Contact1.wav by BMacZero -- https://freesound.org/s/96127/ -- License: Creative Commons 0
+
+Card Shield Sound:
+Magic spell shield on whoosh build up.wav by ryusa -- https://freesound.org/s/531096/ -- License: Attribution 4.0
+
+Card Health Sound:
+Magic Spell by Kostas17 -- https://freesound.org/s/542825/ -- License: Attribution 3.0
+
+Card Lightning Sound:
+Sword_Thunder01.wav by SonoFxAudio -- https://freesound.org/s/649360/ -- License: Attribution 4.0
+
+Card Sword Sound:
+Sword_Fire01.wav by SonoFxAudio -- https://freesound.org/s/649361/ -- License: Attribution 4.0
+
+Card Trap Sound:
+Puzzle Error by qubodup -- https://freesound.org/s/442674/ -- License: Creative Commons 0
+jp_lockedknob01.flac by JPolito -- https://freesound.org/s/391718/ -- License: Creative Commons 0
+
+Card Fire Sound:
+Fire Trap by qubodup -- https://freesound.org/s/739487/ -- License: Creative Commons 0
+WD-40 quarter Full - Flame thrower 8 by Sadiquecat -- https://freesound.org/s/739474/ -- License: Creative Commons 0
