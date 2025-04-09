@@ -4,8 +4,11 @@ Card Flip by f4ngy -- https://freesound.org/s/240776/ -- License: Attribution 4.
 Card Hover Sound:
 QuintoMoveTap1.aif by ramjac -- https://freesound.org/s/21342/ -- License: Attribution 4.0
 
-Card Knock-Fail Sound:
+Card Combo Fail Sound:
 Contact1.wav by BMacZero -- https://freesound.org/s/96127/ -- License: Creative Commons 0
+
+Card Combo Win Sound:
+cartoon zip 2.wav by nezuai -- https://freesound.org/s/576584/ -- License: Attribution 4.0
 
 Card Shield Sound:
 Magic spell shield on whoosh build up.wav by ryusa -- https://freesound.org/s/531096/ -- License: Attribution 4.0
