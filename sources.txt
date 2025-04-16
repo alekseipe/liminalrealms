@@ -29,3 +29,10 @@ jp_lockedknob01.flac by JPolito -- https://freesound.org/s/391718/ -- License: C
 Card Fire Sound:
 Fire Trap by qubodup -- https://freesound.org/s/739487/ -- License: Creative Commons 0
 WD-40 quarter Full - Flame thrower 8 by Sadiquecat -- https://freesound.org/s/739474/ -- License: Creative Commons 0
+
+Shield Hit Sound:
+Wild Impact by EminYILDIRIM -- https://freesound.org/s/668245/ -- License: Attribution 4.0
+
+Shield Break Sound:
+Spin Strike Magic by sonic-boom -- https://elements.envato.com/spin-strike-magic-3Q3N4BD
+
