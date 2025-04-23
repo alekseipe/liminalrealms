@@ -1,3 +1,33 @@
+----- Developers: -----
+
+Developed by Adam Williams, Connor Downey, and Aleksei Perov.
+
+Produced over 6 months with 3 months in design, and 3 months in development.
+
+
+----- Asset Packs: -----
+
+Absorption FX by SHOGUN GAMES -- https://fab.com/s/1875219eac42
+
+Wizard for Battle Polyart by Dungeon Mason -- https://fab.com/s/66c60dfd1cbf
+
+Fantasy Music Starter Pack - Orchestral Music (FREE Music Pack) by Cinematsic -- https://fab.com/s/3c30c89f96ae
+
+Interface & Item Sounds Pack by Daydream Sound -- https://fab.com/s/2b9f1846b8a1
+
+Mega Magic VFX Bundle by VRhinoFX -- https://fab.com/s/e568518d7611
+
+RPG Music Pack: Starter Pack III by Owl Theory Music -- https://fab.com/s/830ef3d784f6
+
+Stylized Fantasy Creatures Bundle by N-Hance Studio -- https://fab.com/s/5cba7088ef7d
+
+Stylized Sword Trails VFX by SERLO -- https://fab.com/s/59a6d9383ee1
+
+----- Other Assets: -----
+
+Font:
+Trajan Pro Bold -- https://font.download/font/trajan-pro
+
 Card Flip Sound:
 Card Flip by f4ngy -- https://freesound.org/s/240776/ -- License: Attribution 4.0
 
@@ -38,3 +68,7 @@ Spin Strike Magic by sonic-boom -- https://elements.envato.com/spin-strike-magic
 
 Player Hurt:
 Grunts.wav by bennychico11 -- https://freesound.org/s/80438/ -- License: Attribution 4.0
+
+----- AI Notice: -----
+
+AI was used to generate and modify art assets used during the development of this game project.
