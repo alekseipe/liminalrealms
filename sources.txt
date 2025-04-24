@@ -118,6 +118,9 @@ Power Punch by Universfield -- https://pixabay.com/sound-effects/fist-punch-or-k
 Enemy Death:
 Cartoon Splat by Universfield -- https://pixabay.com/sound-effects/cartoon-splat-310479/
 
+Map Boss Sound:
+Reverb kick.wav by pedrocnbp -- https://freesound.org/s/467332/ -- License: Attribution 3.0
+
 ----- AI Notice: -----
 
 AI was used to generate and modify art assets used during the development of this game project.
