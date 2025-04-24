@@ -1,8 +1,8 @@
 ----- Developers: -----
 
-Developed by Adam Williams, Connor Downey, and Aleksei Perov.
+Developed by Adam Williams, Aleksei Perov, and Connor Downey. 
 
-Produced over 6 months with 3 months in design, and 3 months in development.
+Produced over 6 months - 3 months in design, and 3 months in development.
 
 
 ----- Asset Packs: -----
@@ -22,6 +22,44 @@ RPG Music Pack: Starter Pack III by Owl Theory Music -- https://fab.com/s/830ef3
 Stylized Fantasy Creatures Bundle by N-Hance Studio -- https://fab.com/s/5cba7088ef7d
 
 Stylized Sword Trails VFX by SERLO -- https://fab.com/s/59a6d9383ee1
+
+----- Enemy Sounds: -----
+
+Turtle:
+thud.ogg by insanity54 -- https://freesound.org/s/339832/ -- License: Creative Commons 0
+
+Wasp:
+Wasp Wings 1 by Wakerone -- https://freesound.org/s/398486/ -- License: Creative Commons 0
+
+Crocodile:
+Beast Breath by NearTheAtmoshphere -- https://freesound.org/s/676477/ -- License: Creative Commons 0
+
+Tiger:
+Tiger Attack by dffdv -- https://pixabay.com/sound-effects/tiger-attack-195840/
+
+HermitCrab:
+Pincer.wav by Bitbeast -- https://freesound.org/s/15277/ -- License: Creative Commons 0
+
+Spider:
+Spider Attack 2 by kongg_ -- https://freesound.org/s/672712/ -- License: Creative Commons 0
+
+Snake:
+Serpent Spell Sound_3 by lukabea -- https://freesound.org/s/660488/ -- License: Creative Commons 0
+
+Wolf:
+ANGRY DOG BARK SNARL Flat.wav by deleted_user_3424813 -- https://freesound.org/s/260776/ -- License: Attribution 3.0
+
+Bear:
+Bear by Universfield -- https://pixabay.com/sound-effects/bear-191995/
+
+Eagle:
+red-tailed-hawk-flying-away by 1888software -- https://pixabay.com/sound-effects/red-tailed-hawk-flying-away-94358/
+
+Dino:
+Dinosaur Scream.flac by qubodup -- https://freesound.org/s/219945/ -- License: Attribution 4.0
+Fighting Game grunts - young female.wav by AderuMoro -- https://freesound.org/s/213295/ -- License: Attribution 4.0
+MetalCabinetSlidingOverLinoleum.flac by qubodup -- https://freesound.org/s/192063/ -- License: Attribution 4.0
+
 
 ----- Other Assets: -----
 
@@ -68,6 +106,17 @@ Spin Strike Magic by sonic-boom -- https://elements.envato.com/spin-strike-magic
 
 Player Hurt:
 Grunts.wav by bennychico11 -- https://freesound.org/s/80438/ -- License: Attribution 4.0
+
+Enemy Add Trap Card:
+Card Sounds by henrygillard -- https://pixabay.com/sound-effects/card-sounds-35956/
+Overlayed with Card Trap Sound
+
+Enemy Attack:
+Fist Punch or kick by rcroller -- https://pixabay.com/sound-effects/fist-punch-or-kick-7171/
+Power Punch by Universfield -- https://pixabay.com/sound-effects/fist-punch-or-kick-7171/
+
+Enemy Death:
+Cartoon Splat by Universfield -- https://pixabay.com/sound-effects/cartoon-splat-310479/
 
 ----- AI Notice: -----
 
